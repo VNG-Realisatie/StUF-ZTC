@@ -5,8 +5,8 @@ title: StUF-ZTC
 # Sectormodel Zaaktypen(-catalogus): StUF–ZTC
 
 **Actuele versie:** 3.10  
-**Beheerder**  VNG Realisatie<br/>
-**Afkorting**  StUF-ZTC
+**Beheerder:**  VNG Realisatie<br/>
+**Afkorting:**  StUF-ZTC
 
 StUF ZaaktypenCatalogus (StUF-ZTC) is een berichtenstandaard opgesteld op basis van het Standaard Uitwisseling Formaat ([StUF](https://vng-realisatie.github.io/StUF-onderlaag/)) voor het uitwisselen van gegevens die zijn beschreven in het Informatiemodel voor de Zaaktype Catalogus 2 ([ImZTC 2.1](https://vng-realisatie.github.io/Zaaktypecatalogus)). Met deze berichten kunnen gegevens van een gehele zaaktypecatalogus met alle daarin aanwezige zaaktypen, informatieobjecttypen en besluittypen worden uitgewisseld maar ook gegevens van slechts één zaaktype. Het is meer dan alleen maar een nieuwe versie van de ZTC. Er is een Informatiemodel toegevoegd, er is een berichtstandaard bij gedefinieerd er zijn handreikingen bij en er is een verzameling van zaaktypen om mee te starten als gemeente in de maak.
 
