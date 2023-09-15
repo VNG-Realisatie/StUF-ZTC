@@ -2,21 +2,21 @@
 layout: page-with-side-nav
 title: Documentatie StUF-ZTC
 folder_files:
-  - title: Extra-elementen voor ztc0310.xls
+  - title: Extra-elementen voor ztc0310 (zip)
     path: documenten/Extra-elementen_voor_ztc0310.zip
     group: 310
     versie: 3-12-2021
     status: Definitief
     omschrijving: 
     datum: 20211208
-  - title: Verstuffing ZTC
+  - title: Verstuffing ZTC (pdf)
     path: documenten/Verstuffing_ZTC.pdf
     group: 310
     versie: 
     status: Definitief
     omschrijving: 
     datum: 20140611
-  - title: Ztc0310 20211208 patch32
+  - title: Ztc0310 20211208 patch32 (zip)
     path: documenten/Ztc0310_20211208_patch32.zip
     group: 310
     versie: 32
