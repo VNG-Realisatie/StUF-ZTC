@@ -14,6 +14,8 @@ nav:
     subnav:
       - title: Overzicht
         path: /
+      - title: StUF-ZTC 3.10
+        path: /StUF-ZTC-310
       - title: Documentatie  
         path: /Documentatie
 #      - title: Werkgroep  
