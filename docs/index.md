@@ -15,6 +15,3 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Discussieplatform
 Hier kunt u terecht voor de [nieuwste discussies m.b.t. StUF-ZTC 3.10](https://github.com/VNG-Realisatie/StUF-Standaarden/labels/StUF-ZTC%203.10).
-
-## StUF-ZTC 3.10
-StUF-ZTC 3.10 maakt gebruik van componenten uit de [StUF 3.01 onderlaag](https://vng-realisatie.github.io/StUF-onderlaag/) en [StUF-BG 3.10](https://vng-realisatie.github.io/StUF-BG/).
