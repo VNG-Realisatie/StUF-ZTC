@@ -2,27 +2,27 @@
 layout: page-with-side-nav
 title: Documentatie StUF-ZTC
 folder_files:
-  - title: Extra-elementen voor ztc0310 (zip)
-    path: documenten/Extra-elementen_voor_ztc0310.zip
+  - title: Ztc0310 20250321 patch33.zip (zip)
+    path: documenten/Ztc0310_20250321_patch33.zip
     group: 310
-    versie: 3-12-2021
+    versie: 33
     status: Definitief
-    omschrijving: 
-    datum: 20211208
+    omschrijving: Patch i.v.m. de wens Tijdelijke verblijfsadressen van niet ingezetene te kunnen uitwisselen. Bevat alle documentatie, schema's en WSDL's behorende bij patch 33 van StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag en StUF-BG 3.10 horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken en de lijst met de bij StUF-ZTC 3.10 horende extraElementen.
+    datum: 20250321
   - title: Verstuffing ZTC (pdf)
     path: documenten/Verstuffing_ZTC.pdf
     group: 310
-    versie: 
+    versie: 6-11-2014 
     status: Definitief
     omschrijving: 
-    datum: 20140611
-  - title: Ztc0310 20211208 patch32 (zip)
-    path: documenten/Ztc0310_20211208_patch32.zip
+    datum: 20141106
+  - title: Extra-elementen voor ztc0310 (zip)
+    path: documenten/Extra-elementen_voor_ztc0310.zip
     group: 310
-    versie: 32
+    versie: 21-3-2025
     status: Definitief
-    omschrijving: Bevat alle documentatie, schema's en WSDL's behorende bij patch 32 van StUF-ZTC 3.10 inclusief alle bij de StUF 3.01 onderlaag en StUF-BG 3.10 horende zaken. Tevens bevat de zip het overzicht van de er in verwerkte onderhoudsverzoeken.
-    datum: 20211208
+    omschrijving: Bevat alle extraElementen t/m patch 33.
+    datum: 20250321
 ---
 
 # Documentatie
