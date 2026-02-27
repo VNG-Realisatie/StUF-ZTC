@@ -3,7 +3,7 @@ layout: page-with-side-nav
 title: Documentatie StUF-ZTC
 folder_files:
   - title: Ztc0310 20260227 patch34.zip (zip)
-    path: documenten/ztc0310_20250825_patch33.zip
+    path: documenten/ztc0310_20260227_patch34.zip
     group: 310
     versie: 34
     status: Definitief
